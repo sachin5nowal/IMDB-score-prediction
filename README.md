@@ -22,14 +22,3 @@ Date:-07/04/2021
     4. Machine learning algorithms with hyperparameter tuning
 4. Conclusion
 
-
-
-IMDB Movie Prediction (Modelling and conclusion)
-About: This notebook is continuation of 'imdb_score_prediction_cleaned.ipynb'.
-
-Author:- Sachin Nowal
-Date:-11/04/2021
-3.4 Modelling : Machine learning algorithms with hyperparameter tuning
-Algorithm: We are using a regression model here
-Experiments with classification model can also we done but balancing techniques should be used
-Also as binning/bucketing imdb_score might result in loss in precision{ability to predict in precise decimal values}
